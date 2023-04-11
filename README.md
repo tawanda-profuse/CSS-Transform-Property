@@ -66,7 +66,7 @@ body{
 
 The code samples above will make a violet rectangle in the middle of the browser window:
 
-![A screenshot of the browser window](violet-box.png)
+![A screenshot of the browser window](https://github.com/tawanda-profuse/CSS-Transform-Property/blob/master/Transform%20Article/violet-box.png?raw=true)
 
 CSS transform is ideally paired with a pseudo-class or animation Key Frames in order to apply a gradual effect. Here is an example of a transformation that increases the elements size when a user places their mouse cursor over the element.
 
@@ -143,7 +143,7 @@ Here is an example of applying a CSS animation by utilizing the transform proper
 
 This enables the violet rectangle to move from one side to another.
 
-![An image of CSS animations](rectangle-animation)
+![An image of CSS animations](https://github.com/tawanda-profuse/CSS-Transform-Property/blob/master/Transform%20Article/rectangle-animation.gif?raw=true)
 
 ## Transformation Values
 
